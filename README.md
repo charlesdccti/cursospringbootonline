@@ -1,3 +1,3 @@
-# Curso de java para web com springBoot, PostgreSql, springMVC, SpringJPA, Thymeleaf...
-Curso de Spring Boot: Criando uma aplicação Java
-- AppEventos executando em Produção
+# Curso de Spring Boot: Criando uma aplicação Java
+Curso de java para web com springBoot, PostgreSql, springMVC, SpringJPA, Thymeleaf...
+Link: https://cursospringbootonline.herokuapp.com/eventos
