@@ -1,1 +1,3 @@
-# cursospringbootonline
+# Curso de java para web com springBoot, PostgreSql, springMVC, SpringJPA, Thymeleaf...
+Curso de Spring Boot: Criando uma aplicação Java
+- AppEventos executando em Produção
