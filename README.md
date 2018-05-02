@@ -1,3 +1,3 @@
 # Curso de Spring Boot: Criando uma aplicação Java
 Curso de java para web com springBoot, PostgreSql, springMVC, SpringJPA, Thymeleaf...
-Link: https://cursospringbootonline.herokuapp.com/eventos
+Link: https://cursospringbootonline.herokuapp.com
